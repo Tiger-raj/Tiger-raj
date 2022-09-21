@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Bajpai.
 - 👀 I’m interested in Programming, Technology, Gaming, Reading, and in few other stuffs.
-- 🌱 I’m currently learning Web Dev.
+- 🌱 I’m currently learning C language.
 - 📫 How to reach me :- Twitter : https://twitter.com/Tiger_raj00 , E-mail : rajbajpai2004@gmail.com .
 
 <!---
