@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Priyanshu Bajpai a.k.a Mr Tiger.
-- 🎯 Jee Advanced 2022 AIR: 5521, Jee Mains 2022 AIR: 6445.
 - 🎓 CSE UG @MNNIT Allahabad'26.
 - 👀 Interested in Programming, Technology, Gaming, Reading, and in few other stuffs.
 - 🌱 Currently learning Cpp language, DSA and web dev.
