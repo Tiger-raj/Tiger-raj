@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Priyanshu Bajpai a.k.a Mr Tiger.
+- 👋 Hi, I’m Priyanshu Bajpai.
 - 🎓 CSE UG @MNNIT Allahabad'26.
 - 👀 Interested in Programming, Technology, Gaming, Reading, and in few other stuffs.
-- 🌱 Currently learning React and practising DSA problems.
-- ✅ Familiar with C, C++, Java, html, css, JS, Node.js, ExpressJS, MongoDb, OOPs, DSA.
+- 🌱 Currently working on my dev and cp skills.
+- ✅ Familiar with C, C++, Java, html, css, JS, Node.js, ExpressJS, MongoDb, Tailwind CSS, OS, SQL, OOPs, DSA.
 - 📫 Contact me here :- rajbajpai2004@gmail.com .
 
 <!---
